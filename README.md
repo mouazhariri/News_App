@@ -12,6 +12,7 @@
 
 ## ScreenShot
  business(Home Screen)
+ 
 ![news-b](https://user-images.githubusercontent.com/91891462/180011572-d4a1897f-8087-469b-8b3e-682cd34e9839.png)
 
  Sports_Screen
